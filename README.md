@@ -1,5 +1,8 @@
 ### Hi there, I'm Terezia  👋
 
+[Visit my Portfolio website](https://terithedesigner.vercel.app/)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teriTheDesigner&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
