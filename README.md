@@ -1,8 +1,12 @@
 ## Hi there, I'm Terezia  ✨
 
-I'm a Frontend Developer, passionate about building engaging digital experiences. I love turning ideas into vibrant designs and bringing them to life!
-
 [Visit my Portfolio website](https://terithedesigner.vercel.app/)
+
+
+I'm a Frontend Developer, passionate about building engaging digital experiences.</br>
+I love turning ideas into vibrant designs and bringing them to life!
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teriTheDesigner&layout=compact)
